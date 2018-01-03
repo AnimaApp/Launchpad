@@ -187,6 +187,7 @@
                    ],
     },
     "identifier" : "com.animaapp.stc-sketch-plugin",
+    "appcast": "https://api.sketchpacks.com/v1/plugins/com.animaapp.stc-sketch-plugin/appcast",
     "description": "Publish websites directly from Sketch",
     "authorEmail" : "support@animaapp.com",
     "name" : "Launchpad by Anima",
